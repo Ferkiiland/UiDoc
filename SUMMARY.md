@@ -1,10 +1,10 @@
-# Table of contents
+# Animations M
 
-* BackgroundHandler.md
+* [UIController](Doc.md)
 
-## Sección Secundaria
+## LocalScripts
 
-* [Background Handler](Doc.md)
+* [Background Handler](BackgroundHandler.md)
 * [Leaderboard Controller](hotbarhandler.md)
 * [Leaderstats Buttons](LsButtons.md)
 * [Battlepass Screen scrollframes](PassScreenScroll.md)
